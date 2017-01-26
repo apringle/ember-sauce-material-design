@@ -14,7 +14,7 @@ https://sauce-consultants.github.io/ember-sauce-material-design/
   * ember install ember-select-box
   * ember install ember-cp-validations
   * ember install ember-pikaday
-  * bower install sauce-material-design
+  * bower install --save sauce-material-design
 * Add sass files to `ember-cli-build.js`
 
 ```
